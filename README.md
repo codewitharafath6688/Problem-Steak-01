@@ -113,23 +113,4 @@ const sentence = "I love programming and solving problems";
 - Use `reduce()` to compare word lengths
 
 ---
-
-# 🧠 Learning Goals
-
-After solving these problems, you will be able to:
-
-- Use `reduce()` for grouping data
-- Perform frequency analysis
-- Find max/min values
-- Transform arrays into objects
-- Solve real-world coding problems
-
----
-
-# ⚡ Pro Tip
-
-If you understand these patterns, you can solve most reduce-based interview problems.
-
----
-
 # 💻 Happy Coding 🚀
